@@ -1,2 +1,2 @@
-# PersonalSite
-Code for my website.
+# Nick's Website
+Code for my personal website, started as homework for CMSC 447.
